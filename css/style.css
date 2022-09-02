@@ -1,0 +1,54 @@
+<!--estilos bootstrap-->
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: auto;
+}
+.caja1 {
+    background-color: #D93BCE;
+    height: 600px;
+}
+.row {
+    padding: 1rem;
+}
+.caja2 {
+    background-color: #CEB3F2;
+    height: 300px;
+}
+.caja3 {
+    background-color: #03318C;
+    height: 300px;
+}
+.caja4 {
+    background-color: #021740;
+    height: 300px;
+}
+.caja5 {
+    background-color: #025373;
+    height: 300px;
+}
+.caja6 {
+    background-color: #CEB3F2;
+    height: 300px;
+}
+.caja7 {
+    background-color: #CEB3F2;
+    height: 300px;
+}
+.caja8 {
+    background-color: #03318C;
+    height: 300px;
+}
+.caja9 {
+    background-color: #021740;
+    height: 300px;
+}
+.caja10 {
+    background-color: #025373;
+    height: 300px;
+}
+.caja11{
+    background-color: #D93BCE;
+    height: 150px;
+}
